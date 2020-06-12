@@ -1,6 +1,6 @@
 {
   "name": "Compass",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "description": "Developer-Focused CLI Tool to Create and Debug Kubernetes Resources",
   "preferGlobal": true,
   "bin": {

@@ -18,8 +18,14 @@ program
   .command('debug')
   .alias('d')
   .description('Debug Kubernetes Resources')
-  .action(() => {
-    debug.debugPodQ();
+  .action((args) => {
+    if (args.args[0]) {
+      debug.debugPodQ(args.args[0]);
+    } else {
+      console.log(
+        'Please pass in a Pod you would like to debug, ie. kcompass debug <pod-name>'
+      );
+    }
   });
 
 program.parse(process.argv);

@@ -6,16 +6,8 @@
   "bin": {
     "kcompass": "./bin/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/winfordlin/Compass.git"
-  },
-  "author": "Winford Lin",
+  "author": "W. Lin",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/winfordlin/Compass/issues"
-  },
-  "homepage": "https://github.com/winfordlin/Compass#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "commander": "^5.1.0",

@@ -1,5 +1,5 @@
 {
-  "name": "Compass",
+  "name": "kcompass",
   "version": "1.3.0",
   "description": "CLI Tool for Debugging Kubernetes Deployments",
   "preferGlobal": true,

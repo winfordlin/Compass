@@ -1,7 +1,8 @@
 <p align="center">
   <img width="131" height="161" src="https://drive.google.com/uc?export=view&id=1_8y9jYwp1cFnVYDLkO34DEEdf_cipICh">
-    <h1 align="center">Compass</h1>
 </p>
+
+<h1 align="center">Compass</h1>
 
 <p align="center">
   
@@ -50,7 +51,7 @@ Compass is meant to be a helpful checklist and not a monitoring/logging framewor
 
 <br/>
 
-<h2 align="center"> :white_check_mark: Debug Checklist First, :sob: Search Overload Later </h2>
+### :white_check_mark: Debug Checklist First, :sob: Search Overload Later
 
 <h3 align="center"> (Y/N) Questions based on this awesome <a href="https://learnk8s.io/a/troubleshooting-kubernetes.pdf">troubleshooting guide</a> by LearnK8s.io </h3>
 
